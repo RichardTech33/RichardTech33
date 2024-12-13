@@ -18,8 +18,6 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/RichardTech33/Detection-Lab/tree/main">Detection Lab</a>|
 | Linux User and Directory Configuration | <a href="https://github.com/RichardTech33/Linux-Lab">Linux Lab</a> |
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      ||
 | Case Management with TheHive                  | <a href="https://github.com/RichardTech33/Case-Management-Lab">Case Management Lab</a>|
 | STIG Compliance Automation |<a href="https://github.com/RichardTech33/STIG-Compliance-Automation">STIG Automation Lab|<!--
 
@@ -69,3 +67,6 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 - <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/RichardTech33/Case-Management-Lab">Case Management Lab</a>
 - <a href="https://github.com/RichardTech33/STIG-Compliance-Automation">STIG Automation Lab</a>
+- <a href="https://github.com/RichardTech33/Linux-Lab">Linux Lab</a>
+
+
